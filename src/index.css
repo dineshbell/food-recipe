@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input{
+  border-radius: 5px;
+  margin-top: 10px;
+  size: 30px;
+}
+h4{
+  margin:10px;
+}
+
+.card{
+  margin:10px
+}
+.heading{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, 'sans-serif';
+  font-size: 60px;
+}
+.container {
+  background-color: antiquewhite;
+  border-radius: 10px;
+}
